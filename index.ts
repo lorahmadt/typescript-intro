@@ -9,3 +9,7 @@ function addKills(current: number, newKills: number): number {
 }
 
 console.log(addKills(10, 5))
+
+// testing
+
+test Comment
